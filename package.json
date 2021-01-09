@@ -1,0 +1,25 @@
+{
+  "name": "terrabuild",
+  "version": "1.0.0",
+  "description": "CLI for Terraform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulletinmybeard/terrabuild.git"
+  },
+  "keywords": [],
+  ,
+  "author": {
+    "name": "Robin Schulz",
+    "email": "hello@rschu.me",
+    "url": "https://rschu.me/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bulletinmybeard/terrabuild/issues"
+  },
+  "homepage": "https://github.com/bulletinmybeard/terrabuild#readme"
+}
